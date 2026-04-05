@@ -75,6 +75,6 @@ Banasthali Vidyapith · 2024–2028 · CGPA 8.53/10
 
 <div align="center">
 
-*Building*
+
 
 </div>
