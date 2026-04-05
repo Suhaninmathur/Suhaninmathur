@@ -2,7 +2,7 @@
 
 # Suhani Mathur
 
-*Building real AI systems. Leading teams. Still in Year 1.*
+*Building real AI systems. Leading teams.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/suhani-mathur-128a73329/)
 [![Email](https://img.shields.io/badge/Email-suhani1711mathur@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:suhani1711mathur@gmail.com)
@@ -13,26 +13,9 @@
 
 <div align="center">
 
-### 🎯 What I Do
-
-| I Build | I Lead | I Compete |
-|--------|--------|-----------|
 
 
 </div>
-
----
-
-## 💡 Currently Working On
-
-```
-Onyatrips — Text Moderation System
-├── Hybrid rule-based + AI filtering
-├── Flask API → detects phone, email, links, toxicity
-└── Groq (Llama 3) for tone analysis
-```
-
----
 
 ## 🛠️ Stack
 
