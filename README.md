@@ -6,8 +6,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/suhani-mathur-128a73329/)
 [![Email](https://img.shields.io/badge/Email-suhani1711mathur@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:suhani1711mathur@gmail.com)
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=0077B5&center=true&vCenter=true&width=500&;Computer+Vision+Enthusiast+%F0%9F%91%81%EF%B8%8F;Always+building%2C+always+learning+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=0077B5&center=true&vCenter=true&width=500&lines=Computer+Vision+Enthusiast+%F0%9F%91%81%EF%B8%8F;Always+building%2C+always+learning+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
 
 </div>
 
@@ -30,9 +30,6 @@
 
 ## 🚀 Projects
 
-**🛡️ Text Moderation System — Onyatrips**
-> Hybrid moderation API — rule-based + Groq AI (Llama 3) filtering for safe chatbot interactions
-
 **👥 Real-Time Crowd Detection**
 > YOLOv8 + OpenCV — detects, counts, and alerts on live webcam feed. Trained on 600 images.
 
@@ -44,11 +41,11 @@
 ## 🏆 Hackathon Record
 
 ```
-2026  Hack O Horizon          → Top 10   🏅  Team Leader
-2025  OScode Online           → Top 5    🥇  Team Leader
-2025  Hack with Rajasthan     → Top 10   🏅  Team Leader
-2025  Smart India Hackathon   → Top 30   🏅  Team Leader
-2025  Hack Celestia           → Finalist 🎖️  Team Leader
+2026  Hack O Horizon          
+2025  OScode Online           
+2025  Hack with Rajasthan   
+2025  Smart India Hackathon  
+2025  Hack Celestia           
 ```
 
 ---
