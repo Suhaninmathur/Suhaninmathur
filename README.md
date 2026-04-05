@@ -45,7 +45,8 @@
 2025  OScode Online           
 2025  Hack with Rajasthan   
 2025  Smart India Hackathon  
-2025  Hack Celestia           
+2025  Hack Celestia
+2026 Hack-o-Hire        
 ```
 
 ---
@@ -77,6 +78,6 @@ Banasthali Vidyapith · 2024–2028 · CGPA 8.53/10
 
 <div align="center">
 
-*1st year. Real projects. Real impact.*
+*Building*
 
 </div>
